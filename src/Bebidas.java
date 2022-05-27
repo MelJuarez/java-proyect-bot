@@ -45,7 +45,7 @@ public class Bebidas {
             MetBebidas.CafeCaliente("");
         }
 /**---------------------------CAFÉ FRIO--------------------------------*/
-        if (opcion_b1==2){
+        if (opcion_b1==4){
             MetBebidas.CafeFrio(" ");
         }
 /**----------------------------TÉ CALIENTE---------------------------*/
@@ -53,7 +53,7 @@ public class Bebidas {
             MetBebidas.TéCaliente("");
         }
 /**-----------------------------TÉ FRIO--------------------------------*/
-        if (opcion_b1==4){
+        if (opcion_b1==2){
             MetBebidas.TeFrio("");
         }
 /**--------------------------- CHOCOLATE ----------------------------*--*/
